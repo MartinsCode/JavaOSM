@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to JavaOSM
 
-You can use the [editor on GitHub](https://github.com/MartinsCode/JavaOSM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JavaOSM is a project to play around with Java, OSM and Github features. So I think, it's only sensible to test out github-pages.
 
 ### Markdown
 
